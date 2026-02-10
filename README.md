@@ -90,6 +90,12 @@ python agent_critic.py       # Agent #3: Risk Analysis
 
 **Recommendation:** NO-GO - Costs exceed revenue in all scenarios. Priority action: Reduce operational costs by 40% or increase subscriber base by 3x.
 
+### Simulation Results
+![Monte Carlo Simulation Results](docs/example_simulation.png)
+
+### Sensitivity Analysis
+![Sensitivity Analysis](docs/example_sensitivity.png)
+
 ## Key Features
 
 - **Uncertainty Modeling** - Uses uniform distributions (extensible to normal, triangular)
